@@ -1,3 +1,7 @@
 aiofiles
 fastapi
+opentelemetry-api
+opentelemetry-exporter-otlp-proto-http
+opentelemetry-instrumentation-fastapi
+opentelemetry-sdk
 uvicorn[standard]
